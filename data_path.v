@@ -5,11 +5,8 @@
 // Engineer: Omar Rady
 // 
 // Create Date: 11/10/2023 06:05:55 PM
-// Design Name: Final Project Extra Credit
-// Module Name: cpu
-// Project Name: Final Project Extra Credit
+// Module Name: cpu data path
 // Target Devices: XC7Z010-CLG400-1
-// Description: Lab5
 // 
 // Dependencies: 
 // 
